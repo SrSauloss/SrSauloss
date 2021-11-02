@@ -40,14 +40,14 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saulo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SrSauloss&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saulo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SrSauloss&show_icons=true&bg_color=0f121c&title_color=FF1493&icon_color=FF1493&text_color=ffffff&include_all_commits=true&count_private=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Saulo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSauloss" />
+<img align="left" alt="Saulo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSauloss&layout=compact&langs_count=7&bg_color=0f121c&title_color=FF1493&icon_color=FF1493&text_color=ffffff" />
 
 </details>
 
