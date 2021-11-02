@@ -36,24 +36,19 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 </div>
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SrSauloss&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saulo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SrSauloss&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSauloss" />
+<img align="left" alt="Saulo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSauloss" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[linkedin]: https://www.linkedin.com/in/saulo-silva-9b9937222
